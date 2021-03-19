@@ -665,6 +665,7 @@ scons --build-type=fast
 ```
 
 这里我的数据和它的不一样，不知道是不是内核不同的原因。他的内核我电脑跑不了，会出error。
+应该是nvmain的版本不同所导致，里面的hello_world.nvt不一样应该。
 
 
 
